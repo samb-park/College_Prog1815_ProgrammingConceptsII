@@ -1,0 +1,60 @@
+\\vmware-host\Shared Folders\Desktop\code\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+\\vmware-host\Shared Folders\Desktop\code\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+\\vmware-host\Shared Folders\Desktop\code\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+\\vmware-host\Shared Folders\Desktop\code\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\code\Assignment3\Assignment3\obj\Debug\Assignment3.Assignment3.resources
+\\vmware-host\Shared Folders\Desktop\code\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\code\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\code\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\code\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+\\vmware-host\Shared Folders\Desktop\code\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+\\vmware-host\Shared Folders\Documents\code\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+\\vmware-host\Shared Folders\Documents\code\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+\\vmware-host\Shared Folders\Documents\code\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+\\vmware-host\Shared Folders\Documents\code\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\code\Assignment3\Assignment3\obj\Debug\Assignment3.Assignment3.resources
+\\vmware-host\Shared Folders\Documents\code\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\code\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Documents\code\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\code\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+\\vmware-host\Shared Folders\Documents\code\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+\\vmware-host\Shared Folders\Desktop\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+\\vmware-host\Shared Folders\Desktop\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+\\vmware-host\Shared Folders\Desktop\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+\\vmware-host\Shared Folders\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.Assignment3.resources
+\\vmware-host\Shared Folders\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+\\vmware-host\Shared Folders\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\assignment\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\assignment\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\assignment\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\assignment\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\assignment\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\assignment\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\assignment\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\assignment\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\assignment\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+\\Mac\Home\Desktop\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+\\Mac\Home\Desktop\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+\\Mac\Home\Desktop\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+\\Mac\Home\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+\\Mac\Home\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+\\Mac\Home\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+\\Mac\Home\Desktop\Assignment3\Assignment3\obj\Debug\Assignment3.StockPortfolioTracker.resources
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\assignment\Assignment3\Assignment3\obj\Debug\Assignment3.StockPortfolioTracker.resources
+\\Mac\Home\Downloads\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+\\Mac\Home\Downloads\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+\\Mac\Home\Downloads\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+\\Mac\Home\Downloads\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Assignment3\Assignment3\obj\Debug\Assignment3.StockPortfolioTracker.resources
+\\Mac\Home\Downloads\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+\\Mac\Home\Downloads\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+\\Mac\Home\Downloads\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
