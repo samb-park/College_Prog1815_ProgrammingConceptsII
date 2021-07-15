@@ -1,0 +1,10 @@
+D:\cloud\cpa\Level2\Prog1815-Concept\03.Source\exercise\week02\week2\week2\bin\Debug\week2.exe.config
+D:\cloud\cpa\Level2\Prog1815-Concept\03.Source\exercise\week02\week2\week2\bin\Debug\week2.exe
+D:\cloud\cpa\Level2\Prog1815-Concept\03.Source\exercise\week02\week2\week2\bin\Debug\week2.pdb
+D:\cloud\cpa\Level2\Prog1815-Concept\03.Source\exercise\week02\week2\week2\obj\Debug\week2.csprojAssemblyReference.cache
+D:\cloud\cpa\Level2\Prog1815-Concept\03.Source\exercise\week02\week2\week2\obj\Debug\week2.Calculator.resources
+D:\cloud\cpa\Level2\Prog1815-Concept\03.Source\exercise\week02\week2\week2\obj\Debug\week2.Properties.Resources.resources
+D:\cloud\cpa\Level2\Prog1815-Concept\03.Source\exercise\week02\week2\week2\obj\Debug\week2.csproj.GenerateResource.cache
+D:\cloud\cpa\Level2\Prog1815-Concept\03.Source\exercise\week02\week2\week2\obj\Debug\week2.csproj.CoreCompileInputs.cache
+D:\cloud\cpa\Level2\Prog1815-Concept\03.Source\exercise\week02\week2\week2\obj\Debug\week2.exe
+D:\cloud\cpa\Level2\Prog1815-Concept\03.Source\exercise\week02\week2\week2\obj\Debug\week2.pdb
