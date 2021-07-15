@@ -1,0 +1,10 @@
+C:\code\SPFinalExam\SPFinalExam\bin\Debug\SPFinalExam.exe.config
+C:\code\SPFinalExam\SPFinalExam\bin\Debug\SPFinalExam.exe
+C:\code\SPFinalExam\SPFinalExam\bin\Debug\SPFinalExam.pdb
+C:\code\SPFinalExam\SPFinalExam\obj\Debug\SPFinalExam.csprojAssemblyReference.cache
+C:\code\SPFinalExam\SPFinalExam\obj\Debug\SPFinalExam.WorkRecords.resources
+C:\code\SPFinalExam\SPFinalExam\obj\Debug\SPFinalExam.Properties.Resources.resources
+C:\code\SPFinalExam\SPFinalExam\obj\Debug\SPFinalExam.csproj.GenerateResource.cache
+C:\code\SPFinalExam\SPFinalExam\obj\Debug\SPFinalExam.csproj.CoreCompileInputs.cache
+C:\code\SPFinalExam\SPFinalExam\obj\Debug\SPFinalExam.exe
+C:\code\SPFinalExam\SPFinalExam\obj\Debug\SPFinalExam.pdb
