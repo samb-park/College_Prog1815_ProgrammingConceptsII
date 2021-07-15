@@ -1,0 +1,10 @@
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\inclass\InClass3\InClass3\bin\Debug\InClass3.exe.config
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\inclass\InClass3\InClass3\bin\Debug\InClass3.exe
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\inclass\InClass3\InClass3\bin\Debug\InClass3.pdb
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\inclass\InClass3\InClass3\obj\Debug\InClass3.csprojAssemblyReference.cache
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\inclass\InClass3\InClass3\obj\Debug\InClass3.EmployeeYearsOfService.resources
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\inclass\InClass3\InClass3\obj\Debug\InClass3.Properties.Resources.resources
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\inclass\InClass3\InClass3\obj\Debug\InClass3.csproj.GenerateResource.cache
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\inclass\InClass3\InClass3\obj\Debug\InClass3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\inclass\InClass3\InClass3\obj\Debug\InClass3.exe
+\\Mac\Home\Library\Mobile Documents\com~apple~CloudDocs\Icloud\cpa\level2\Prog1815-Concept\03.Source\inclass\InClass3\InClass3\obj\Debug\InClass3.pdb
